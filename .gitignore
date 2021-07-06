@@ -9,3 +9,4 @@ obj/Debug/net5.0/sublime-friendly-command-line-editor.AssemblyInfoInputs.cache
 obj/Debug/net5.0/sublime-friendly-command-line-editor.assets.cache
 obj/Debug/net5.0/sublime-friendly-command-line-editor.csproj.AssemblyReference.cache
 obj/Debug/net5.0/sublime-friendly-command-line-editor.GeneratedMSBuildEditorConfig.editorconfig
+.vscode/settings.json
