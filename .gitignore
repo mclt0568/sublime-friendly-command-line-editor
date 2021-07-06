@@ -1,0 +1,11 @@
+obj/project.assets.json
+obj/project.nuget.cache
+obj/sublime-friendly-command-line-editor.csproj.nuget.dgspec.json
+obj/sublime-friendly-command-line-editor.csproj.nuget.g.props
+obj/sublime-friendly-command-line-editor.csproj.nuget.g.targets
+obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+obj/Debug/net5.0/sublime-friendly-command-line-editor.AssemblyInfo.cs
+obj/Debug/net5.0/sublime-friendly-command-line-editor.AssemblyInfoInputs.cache
+obj/Debug/net5.0/sublime-friendly-command-line-editor.assets.cache
+obj/Debug/net5.0/sublime-friendly-command-line-editor.csproj.AssemblyReference.cache
+obj/Debug/net5.0/sublime-friendly-command-line-editor.GeneratedMSBuildEditorConfig.editorconfig
